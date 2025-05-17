@@ -1,8 +1,8 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/MaxGripe/rename-all-files)
-![GitHub License](https://img.shields.io/github/license/MaxGripe/rename-all-files)
-![GitHub Created At](https://img.shields.io/github/created-at/MaxGripe/rename-all-files)
-![GitHub forks](https://img.shields.io/github/forks/MaxGripe/rename-all-files)
-![GitHub Repo stars](https://img.shields.io/github/stars/MaxGripe/rename-all-files)
+![GitHub repo size](https://img.shields.io/github/repo-size/mg0x7BE/rename-all-files)
+![GitHub License](https://img.shields.io/github/license/mg0x7BE/rename-all-files)
+![GitHub Created At](https://img.shields.io/github/created-at/mg0x7BE/rename-all-files)
+![GitHub forks](https://img.shields.io/github/forks/mg0x7BE/rename-all-files)
+![GitHub Repo stars](https://img.shields.io/github/stars/mg0x7BE/rename-all-files)
 
 # RenameAllFiles
 
