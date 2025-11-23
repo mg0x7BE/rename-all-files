@@ -6,45 +6,38 @@
 
 # RenameAllFiles
 
-Renames multiple files in a directory by replacing a specified search string with a replace string in the file names.
+Batch rename files by replacing string in filenames.
 
 ## Usage
 
-To use the utility, run the following command:
-
-```
+```bash
 RenameAllFiles.exe searchString replaceString [CONFIRM]
 ```
 
-### Parameters
+Without `CONFIRM`, shows preview only.
 
-- `searchString`: The string you want to search for in the file names.
-- `replaceString`: The string you want to replace the `searchString` with in the file names.
-- `CONFIRM` (optional): If you want to execute the renaming process, add this parameter. Without it, the utility will only display the expected changes without actually renaming the files.
+## Example
 
-### Example
-
-If you want to replace the word "old" with "new" in the file names in the current directory, run the following command:
-
-```
-RenameAllFiles.exe old NEW
+```bash
+RenameAllFiles.exe old new
 ```
 
-This will display the expected changes in the file names. For example:
+Preview:
 ```
-Old file.txt -> NEW file.txt
-Another old file.older -> Another NEW file.NEWer
- ```
-
-If you are satisfied with the changes and want to proceed with renaming the files, add the `CONFIRM` parameter:
-
+old_file.txt -> new_file.txt
+another_old.txt -> another_new.txt
 ```
+
+Execute:
+```bash
 RenameAllFiles.exe old new CONFIRM
 ```
 
-This will rename the files as specified.
-
 ## Notes
 
-- Search is case-insensitive, so it will match both upper and lower case occurrences of the search string.
-- It processes only files in the current directory, not in subdirectories.
+- Case-insensitive search
+- Current directory only (no subdirectories)
+
+## License
+
+[Unlicense](LICENSE)
