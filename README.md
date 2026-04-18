@@ -1,8 +1,9 @@
+![Workflow Status](https://github.com/mg0x7BE/rename-all-files/actions/workflows/dotnet.yml/badge.svg)
 ![GitHub repo size](https://img.shields.io/github/repo-size/mg0x7BE/rename-all-files)
 ![GitHub License](https://img.shields.io/github/license/mg0x7BE/rename-all-files)
 ![GitHub Created At](https://img.shields.io/github/created-at/mg0x7BE/rename-all-files)
 ![GitHub forks](https://img.shields.io/github/forks/mg0x7BE/rename-all-files)
-![GitHub Repo stars](https://img.shields.io/github/stars/mg0x7BE/rename-all-files)
+![GitHub Repo stars](https://img.shields.io/github/stars/mg0x7BE/rename-all-files)\
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
 # RenameAllFiles
